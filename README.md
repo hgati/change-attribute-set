@@ -1,4 +1,4 @@
-# Magento2 Change Attribute-Set on Product Grid
+# Magento2 Change Attribute Set on Product Grid
 - Change the attribute sets on your Magento e-com website easily to make it function according to your requirements.
 - Plus, you don’t need any type of technical knowledge to use the Change attribute set extension for Magento 2.
 
